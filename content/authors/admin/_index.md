@@ -46,10 +46,7 @@ courses:
       - Data Structures and algorithms
       - Computer Graphics
       - Computational Geometry
-      - Operating System
-      - Object Oriented Design Analysis
-      - Web Design and Development
-      - Database Systems
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
