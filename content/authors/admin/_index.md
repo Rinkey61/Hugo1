@@ -42,7 +42,7 @@ education:
     date_end: Present
     GPA: 3.8/4.0
 
-      Courses included:
+      "Courses included":
       - Data Structures and algorithms
       - Computer Graphics
       - Computational Geometry
