@@ -42,10 +42,6 @@ education:
     date_end: Present
     GPA: 3.8/4.0
 
-courses:
-      - Data Structures and algorithms
-      - Computer Graphics
-      - Computational Geometry
     
 work:
   - position: Director of Cloud Infrastructure
