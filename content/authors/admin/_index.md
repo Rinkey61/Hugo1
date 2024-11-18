@@ -41,6 +41,7 @@ education:
     date_start: 2022-09-03
     date_end: Present
     GPA: 3.8/4.0
+    
 courses:
   - Operating System
     
